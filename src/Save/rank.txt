@@ -1,0 +1,16 @@
+1 XSY 14500
+2 XSY 12000
+3 Lunium 5150
+4 ShenLv 3200
+5 Lunium 3050
+6 Lunium* 2450
+7 Unname 2050
+8 Lunium 2000
+9 XSY3* 1950
+10 XSY3* 1950
+11 XSY3* 1950
+12 XSY3* 950
+13 XSY* 900
+14 Lunium 850
+15 slks 750
+
